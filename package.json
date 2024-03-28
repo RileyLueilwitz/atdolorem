@@ -1,0 +1,33 @@
+{
+  "name": "atdolorem",
+  "version": "1.0.0",
+  "description": "Matrix Client-Server SDK for Javascript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RileyLueilwitz/atdolorem.git"
+  },
+  "keywords": [
+    "matrix-org"
+  ],
+  "browser": "browser-index.js",
+  "author": "DarianaKunde",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "browser-request": "^0.3.3",
+    "browserify": "^10.2.3",
+    "q": "^1.4.1",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {
+    "watchify": "^3.2.1",
+    "istanbul": "^0.3.13",
+    "jasmine-node": "^1.14.5",
+    "jshint": "^2.8.0",
+    "jsdoc": "^3.4.0",
+    "uglifyjs": "^2.4.10"
+  },
+  "bugs": {
+    "url": "https://github.com/RileyLueilwitz/atdolorem.git/issues"
+  }
+}
